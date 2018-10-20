@@ -1,0 +1,732 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2015.5.24)  30 MAR 2018 22:33
+entering extended mode
+ restricted \write18 enabled.
+ file:line:error style messages enabled.
+ %&-line parsing enabled.
+**HW5_hudanyun_sheng.tex
+(./HW5_hudanyun_sheng.tex
+LaTeX2e <2015/01/01>
+Babel <3.9l> and hyphenation patterns for 79 languages loaded.
+(/usr/local/texlive/2015/texmf-dist/tex/latex/base/article.cls
+Document Class: article 2014/09/29 v1.4h Standard LaTeX document class
+(/usr/local/texlive/2015/texmf-dist/tex/latex/base/size10.clo
+File: size10.clo 2014/09/29 v1.4h Standard LaTeX file (size option)
+)
+\c@part=\count79
+\c@section=\count80
+\c@subsection=\count81
+\c@subsubsection=\count82
+\c@paragraph=\count83
+\c@subparagraph=\count84
+\c@figure=\count85
+\c@table=\count86
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen102
+)
+(/usr/local/texlive/2015/texmf-dist/tex/latex/geometry/geometry.sty
+Package: geometry 2010/09/12 v5.6 Page Geometry
+
+(/usr/local/texlive/2015/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks14
+)
+(/usr/local/texlive/2015/texmf-dist/tex/generic/oberdiek/ifpdf.sty
+Package: ifpdf 2011/01/30 v2.3 Provides the ifpdf switch (HO)
+Package ifpdf Info: pdfTeX in PDF mode is detected.
+)
+(/usr/local/texlive/2015/texmf-dist/tex/generic/oberdiek/ifvtex.sty
+Package: ifvtex 2010/03/01 v1.5 Detect VTeX and its facilities (HO)
+Package ifvtex Info: VTeX not detected.
+)
+(/usr/local/texlive/2015/texmf-dist/tex/generic/ifxetex/ifxetex.sty
+Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
+)
+\Gm@cnth=\count87
+\Gm@cntv=\count88
+\c@Gm@tempcnt=\count89
+\Gm@bindingoffset=\dimen103
+\Gm@wd@mp=\dimen104
+\Gm@odd@mp=\dimen105
+\Gm@even@mp=\dimen106
+\Gm@layoutwidth=\dimen107
+\Gm@layoutheight=\dimen108
+\Gm@layouthoffset=\dimen109
+\Gm@layoutvoffset=\dimen110
+\Gm@dimlist=\toks15
+)
+(/usr/local/texlive/2015/texmf-dist/tex/latex/setspace/setspace.sty
+Package: setspace 2011/12/19 v6.7a set line spacing
+)
+(/usr/local/texlive/2015/texmf-dist/tex/latex/amsmath/amsmath.sty
+Package: amsmath 2013/01/14 v2.14 AMS math features
+\@mathmargin=\skip43
+
+For additional information on amsmath, use the `?' option.
+(/usr/local/texlive/2015/texmf-dist/tex/latex/amsmath/amstext.sty
+Package: amstext 2000/06/29 v2.01
+
+(/usr/local/texlive/2015/texmf-dist/tex/latex/amsmath/amsgen.sty
+File: amsgen.sty 1999/11/30 v2.0
+\@emptytoks=\toks16
+\ex@=\dimen111
+))
+(/usr/local/texlive/2015/texmf-dist/tex/latex/amsmath/amsbsy.sty
+Package: amsbsy 1999/11/29 v1.2d
+\pmbraise@=\dimen112
+)
+(/usr/local/texlive/2015/texmf-dist/tex/latex/amsmath/amsopn.sty
+Package: amsopn 1999/12/14 v2.01 operator names
+)
+\inf@bad=\count90
+LaTeX Info: Redefining \frac on input line 210.
+\uproot@=\count91
+\leftroot@=\count92
+LaTeX Info: Redefining \overline on input line 306.
+\classnum@=\count93
+\DOTSCASE@=\count94
+LaTeX Info: Redefining \ldots on input line 378.
+LaTeX Info: Redefining \dots on input line 381.
+LaTeX Info: Redefining \cdots on input line 466.
+\Mathstrutbox@=\box26
+\strutbox@=\box27
+\big@size=\dimen113
+LaTeX Font Info:    Redeclaring font encoding OML on input line 566.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 567.
+\macc@depth=\count95
+\c@MaxMatrixCols=\count96
+\dotsspace@=\muskip10
+\c@parentequation=\count97
+\dspbrk@lvl=\count98
+\tag@help=\toks17
+\row@=\count99
+\column@=\count100
+\maxfields@=\count101
+\andhelp@=\toks18
+\eqnshift@=\dimen114
+\alignsep@=\dimen115
+\tagshift@=\dimen116
+\tagwidth@=\dimen117
+\totwidth@=\dimen118
+\lineht@=\dimen119
+\@envbody=\toks19
+\multlinegap=\skip44
+\multlinetaggap=\skip45
+\mathdisplay@stack=\toks20
+LaTeX Info: Redefining \[ on input line 2665.
+LaTeX Info: Redefining \] on input line 2666.
+)
+(/usr/local/texlive/2015/texmf-dist/tex/latex/amsfonts/amssymb.sty
+Package: amssymb 2013/01/14 v3.01 AMS font symbols
+
+(/usr/local/texlive/2015/texmf-dist/tex/latex/amsfonts/amsfonts.sty
+Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
+\symAMSa=\mathgroup4
+\symAMSb=\mathgroup5
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
+))
+(/usr/local/texlive/2015/texmf-dist/tex/latex/tools/enumerate.sty
+Package: enumerate 2014/10/28 v3.00 enumerate extensions (DPC)
+\@enLab=\toks21
+)
+(/usr/local/texlive/2015/texmf-dist/tex/latex/subfigure/subfigure.sty
+Package: subfigure 2002/03/15 v2.1.5 subfigure package
+\subfigtopskip=\skip46
+\subfigcapskip=\skip47
+\subfigcaptopadj=\dimen120
+\subfigbottomskip=\skip48
+\subfigcapmargin=\dimen121
+\subfiglabelskip=\skip49
+\c@subfigure=\count102
+\c@lofdepth=\count103
+\c@subtable=\count104
+\c@lotdepth=\count105
+
+****************************************
+* Local config file subfigure.cfg used *
+****************************************
+(/usr/local/texlive/2015/texmf-dist/tex/latex/subfigure/subfigure.cfg)
+\subfig@top=\skip50
+\subfig@bottom=\skip51
+)
+(/usr/local/texlive/2015/texmf-dist/tex/latex/caption/caption.sty
+Package: caption 2013/05/02 v3.3-89 Customizing captions (AR)
+
+(/usr/local/texlive/2015/texmf-dist/tex/latex/caption/caption3.sty
+Package: caption3 2013/05/02 v1.6-88 caption3 kernel (AR)
+Package caption3 Info: TeX engine: e-TeX on input line 57.
+\captionmargin=\dimen122
+\captionmargin@=\dimen123
+\captionwidth=\dimen124
+\caption@tempdima=\dimen125
+\caption@indent=\dimen126
+\caption@parindent=\dimen127
+\caption@hangindent=\dimen128
+)
+\c@ContinuedFloat=\count106
+Package caption Info: subfigure package is loaded.
+)
+(/usr/local/texlive/2015/texmf-dist/tex/latex/listings/listings.sty
+\lst@mode=\count107
+\lst@gtempboxa=\box28
+\lst@token=\toks22
+\lst@length=\count108
+\lst@currlwidth=\dimen129
+\lst@column=\count109
+\lst@pos=\count110
+\lst@lostspace=\dimen130
+\lst@width=\dimen131
+\lst@newlines=\count111
+\lst@lineno=\count112
+\lst@maxwidth=\dimen132
+
+(/usr/local/texlive/2015/texmf-dist/tex/latex/listings/lstmisc.sty
+File: lstmisc.sty 2014/09/06 1.5e (Carsten Heinz)
+\c@lstnumber=\count113
+\lst@skipnumbers=\count114
+\lst@framebox=\box29
+)
+(/usr/local/texlive/2015/texmf-dist/tex/latex/listings/listings.cfg
+File: listings.cfg 2014/09/06 1.5e listings configuration
+))
+Package: listings 2014/09/06 1.5e (Carsten Heinz)
+
+(/usr/local/texlive/2015/texmf-dist/tex/latex/float/float.sty
+Package: float 2001/11/08 v1.3d Float enhancements (AL)
+\c@float@type=\count115
+\float@exts=\toks23
+\float@box=\box30
+\@float@everytoks=\toks24
+\@floatcapt=\box31
+)
+(/usr/local/texlive/2015/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 2014/10/28 v1.0g Enhanced LaTeX Graphics (DPC,SPQR)
+
+(/usr/local/texlive/2015/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2014/10/28 v1.0p Standard LaTeX Graphics (DPC,SPQR)
+
+(/usr/local/texlive/2015/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 1999/03/16 v1.09 sin cos tan (DPC)
+)
+(/usr/local/texlive/2015/texmf-dist/tex/latex/latexconfig/graphics.cfg
+File: graphics.cfg 2010/04/23 v1.9 graphics configuration of TeX Live
+)
+Package graphics Info: Driver file: pdftex.def on input line 94.
+
+(/usr/local/texlive/2015/texmf-dist/tex/latex/pdftex-def/pdftex.def
+File: pdftex.def 2011/05/27 v0.06d Graphics/color for pdfTeX
+
+(/usr/local/texlive/2015/texmf-dist/tex/generic/oberdiek/infwarerr.sty
+Package: infwarerr 2010/04/08 v1.3 Providing info/warning/error messages (HO)
+)
+(/usr/local/texlive/2015/texmf-dist/tex/generic/oberdiek/ltxcmds.sty
+Package: ltxcmds 2011/11/09 v1.22 LaTeX kernel commands for general use (HO)
+)
+\Gread@gobject=\count116
+))
+\Gin@req@height=\dimen133
+\Gin@req@width=\dimen134
+)
+(./HW5_hudanyun_sheng.aux
+
+LaTeX Warning: Label `seg' multiply defined.
+
+
+LaTeX Warning: Label `noiseM' multiply defined.
+
+
+LaTeX Warning: Label `IC' multiply defined.
+
+
+LaTeX Warning: Label `seg' multiply defined.
+
+
+LaTeX Warning: Label `noiseM' multiply defined.
+
+
+LaTeX Warning: Label `IC' multiply defined.
+
+
+LaTeX Warning: Label `seg' multiply defined.
+
+
+LaTeX Warning: Label `noiseM' multiply defined.
+
+
+LaTeX Warning: Label `IC' multiply defined.
+
+
+LaTeX Warning: Label `seg' multiply defined.
+
+
+LaTeX Warning: Label `noiseM' multiply defined.
+
+
+LaTeX Warning: Label `IC' multiply defined.
+
+
+LaTeX Warning: Label `seg' multiply defined.
+
+
+LaTeX Warning: Label `noiseM' multiply defined.
+
+
+LaTeX Warning: Label `IC' multiply defined.
+
+)
+\openout1 = `HW5_hudanyun_sheng.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 16.
+LaTeX Font Info:    ... okay on input line 16.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 16.
+LaTeX Font Info:    ... okay on input line 16.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 16.
+LaTeX Font Info:    ... okay on input line 16.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 16.
+LaTeX Font Info:    ... okay on input line 16.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 16.
+LaTeX Font Info:    ... okay on input line 16.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 16.
+LaTeX Font Info:    ... okay on input line 16.
+
+*geometry* driver: auto-detecting
+*geometry* detected driver: pdftex
+*geometry* verbose mode - [ preamble ] result:
+* driver: pdftex
+* paper: a4paper
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: 
+* h-part:(L,W,R)=(28.45274pt, 540.60239pt, 28.45274pt)
+* v-part:(T,H,B)=(71.13188pt, 702.78308pt, 71.13188pt)
+* \paperwidth=597.50787pt
+* \paperheight=845.04684pt
+* \textwidth=540.60239pt
+* \textheight=702.78308pt
+* \oddsidemargin=-43.81725pt
+* \evensidemargin=-43.81725pt
+* \topmargin=-38.1381pt
+* \headheight=12.0pt
+* \headsep=25.0pt
+* \topskip=10.0pt
+* \footskip=30.0pt
+* \marginparwidth=57.0pt
+* \marginparsep=11.0pt
+* \columnsep=10.0pt
+* \skip\footins=9.0pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidefalse
+* \@mparswitchfalse
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+Package caption Info: Begin \AtBeginDocument code.
+Package caption Info: float package is loaded.
+Package caption Info: listings package is loaded.
+Package caption Info: End \AtBeginDocument code.
+\c@lstlisting=\count117
+(/usr/local/texlive/2015/texmf-dist/tex/context/base/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count118
+\scratchdimen=\dimen135
+\scratchbox=\box32
+\nofMPsegments=\count119
+\nofMParguments=\count120
+\everyMPshowfont=\toks25
+\MPscratchCnt=\count121
+\MPscratchDim=\dimen136
+\MPnumerator=\count122
+\makeMPintoPDFobject=\count123
+\everyMPtoPDFconversion=\toks26
+) (/usr/local/texlive/2015/texmf-dist/tex/generic/oberdiek/pdftexcmds.sty
+Package: pdftexcmds 2011/11/29 v0.20 Utility functions of pdfTeX for LuaTeX (HO
+)
+
+(/usr/local/texlive/2015/texmf-dist/tex/generic/oberdiek/ifluatex.sty
+Package: ifluatex 2010/03/01 v1.3 Provides the ifluatex switch (HO)
+Package ifluatex Info: LuaTeX not detected.
+)
+Package pdftexcmds Info: LuaTeX not detected.
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+)
+(/usr/local/texlive/2015/texmf-dist/tex/latex/oberdiek/epstopdf-base.sty
+Package: epstopdf-base 2010/02/09 v2.5 Base part for package epstopdf
+
+(/usr/local/texlive/2015/texmf-dist/tex/latex/oberdiek/grfext.sty
+Package: grfext 2010/08/19 v1.1 Manage graphics extensions (HO)
+
+(/usr/local/texlive/2015/texmf-dist/tex/generic/oberdiek/kvdefinekeys.sty
+Package: kvdefinekeys 2011/04/07 v1.3 Define keys (HO)
+))
+(/usr/local/texlive/2015/texmf-dist/tex/latex/oberdiek/kvoptions.sty
+Package: kvoptions 2011/06/30 v3.11 Key value format for package options (HO)
+
+(/usr/local/texlive/2015/texmf-dist/tex/generic/oberdiek/kvsetkeys.sty
+Package: kvsetkeys 2012/04/25 v1.16 Key value parser (HO)
+
+(/usr/local/texlive/2015/texmf-dist/tex/generic/oberdiek/etexcmds.sty
+Package: etexcmds 2011/02/16 v1.5 Avoid name clashes with e-TeX commands (HO)
+Package etexcmds Info: Could not find \expanded.
+(etexcmds)             That can mean that you are not using pdfTeX 1.50 or
+(etexcmds)             that some package has redefined \expanded.
+(etexcmds)             In the latter case, load this package earlier.
+)))
+Package grfext Info: Graphics extension search list:
+(grfext)             [.png,.pdf,.jpg,.mps,.jpeg,.jbig2,.jb2,.PNG,.PDF,.JPG,.JPE
+G,.JBIG2,.JB2,.eps]
+(grfext)             \AppendGraphicsExtensions on input line 452.
+
+(/usr/local/texlive/2015/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
+e
+))
+Underfull \hbox (badness 10000) in paragraph at lines 37--39
+
+ []
+
+<probe1segmented.jpg, id=1, 642.4pt x 481.8pt>
+File: probe1segmented.jpg Graphic file (type jpg)
+ <use probe1segmented.jpg>
+Package pdftex.def Info: probe1segmented.jpg used on input line 43.
+(pdftex.def)             Requested size: 158.99377pt x 119.24402pt.
+
+<probe1polarnoise.jpg, id=2, 240.9pt x 20.075pt>
+File: probe1polarnoise.jpg Graphic file (type jpg)
+ <use probe1polarnoise.jpg>
+Package pdftex.def Info: probe1polarnoise.jpg used on input line 49.
+(pdftex.def)             Requested size: 158.99377pt x 13.24983pt.
+
+<iriscoding1.jpg, id=3, 1022.82124pt x 200.75pt>
+File: iriscoding1.jpg Graphic file (type jpg)
+ <use iriscoding1.jpg>
+Package pdftex.def Info: iriscoding1.jpg used on input line 55.
+(pdftex.def)             Requested size: 216.81pt x 42.55083pt.
+
+Overfull \hbox (54.62764pt too wide) in paragraph at lines 55--56
+ [][] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 61--62
+
+ []
+
+<probe2segmented.jpg, id=4, 642.4pt x 481.8pt>
+File: probe2segmented.jpg Graphic file (type jpg)
+ <use probe2segmented.jpg>
+Package pdftex.def Info: probe2segmented.jpg used on input line 66.
+(pdftex.def)             Requested size: 158.99377pt x 119.24402pt.
+
+<probe2polarnoise.jpg, id=5, 240.9pt x 20.075pt>
+File: probe2polarnoise.jpg Graphic file (type jpg)
+ <use probe2polarnoise.jpg>
+Package pdftex.def Info: probe2polarnoise.jpg used on input line 72.
+(pdftex.def)             Requested size: 158.99377pt x 13.24983pt.
+
+<iriscoding2.jpg, id=6, 1022.82124pt x 200.75pt>
+File: iriscoding2.jpg Graphic file (type jpg)
+ <use iriscoding2.jpg>
+Package pdftex.def Info: iriscoding2.jpg used on input line 78.
+(pdftex.def)             Requested size: 216.81pt x 42.55083pt.
+
+Overfull \hbox (54.62764pt too wide) in paragraph at lines 78--79
+ [][] 
+ []
+
+[1
+
+{/usr/local/texlive/2015/texmf-var/fonts/map/pdftex/updmap/pdftex.map} <./probe
+1segmented.jpg> <./probe1polarnoise.jpg> <./iriscoding1.jpg>]
+Underfull \hbox (badness 10000) in paragraph at lines 84--85
+
+ []
+
+<probe3segmented.jpg, id=17, 642.4pt x 481.8pt>
+File: probe3segmented.jpg Graphic file (type jpg)
+ <use probe3segmented.jpg>
+Package pdftex.def Info: probe3segmented.jpg used on input line 89.
+(pdftex.def)             Requested size: 158.99377pt x 119.24402pt.
+
+<probe3polarnoise.jpg, id=18, 240.9pt x 20.075pt>
+File: probe3polarnoise.jpg Graphic file (type jpg)
+ <use probe3polarnoise.jpg>
+Package pdftex.def Info: probe3polarnoise.jpg used on input line 95.
+(pdftex.def)             Requested size: 158.99377pt x 13.24983pt.
+
+<iriscoding3.jpg, id=19, 1022.82124pt x 200.75pt>
+File: iriscoding3.jpg Graphic file (type jpg)
+ <use iriscoding3.jpg>
+Package pdftex.def Info: iriscoding3.jpg used on input line 101.
+(pdftex.def)             Requested size: 216.81pt x 42.55083pt.
+
+Overfull \hbox (54.62764pt too wide) in paragraph at lines 101--102
+ [][] 
+ []
+
+LaTeX Font Info:    Try loading font information for U+msa on input line 111.
+(/usr/local/texlive/2015/texmf-dist/tex/latex/amsfonts/umsa.fd
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+LaTeX Font Info:    Try loading font information for U+msb on input line 111.
+
+(/usr/local/texlive/2015/texmf-dist/tex/latex/amsfonts/umsb.fd
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+)
+<scoreDis.jpg, id=20, 878.28125pt x 658.46pt>
+File: scoreDis.jpg Graphic file (type jpg)
+ <use scoreDis.jpg>
+Package pdftex.def Info: scoreDis.jpg used on input line 126.
+(pdftex.def)             Requested size: 289.07999pt x 216.72983pt.
+ [2 <./probe2segmented.jpg> <./probe2polarnoise.jpg> <./iriscoding2.jpg> <./pro
+be3segmented.jpg> <./probe3polarnoise.jpg> <./iriscoding3.jpg>]
+<probe97.jpg, id=24, 642.4pt x 481.8pt>
+File: probe97.jpg Graphic file (type jpg)
+ <use probe97.jpg>
+Package pdftex.def Info: probe97.jpg used on input line 135.
+(pdftex.def)             Requested size: 216.81pt x 162.60416pt.
+
+<gallery97.jpg, id=25, 642.4pt x 481.8pt>
+File: gallery97.jpg Graphic file (type jpg)
+ <use gallery97.jpg>
+Package pdftex.def Info: gallery97.jpg used on input line 141.
+(pdftex.def)             Requested size: 216.81pt x 162.60416pt.
+
+Overfull \hbox (2.22221pt too wide) in paragraph at lines 133--145
+[][] [] 
+ []
+
+<probe84.jpg, id=26, 642.4pt x 481.8pt>
+File: probe84.jpg Graphic file (type jpg)
+ <use probe84.jpg>
+Package pdftex.def Info: probe84.jpg used on input line 151.
+(pdftex.def)             Requested size: 216.81pt x 162.60416pt.
+
+<gallery84.jpg, id=27, 642.4pt x 481.8pt>
+File: gallery84.jpg Graphic file (type jpg)
+ <use gallery84.jpg>
+Package pdftex.def Info: gallery84.jpg used on input line 157.
+(pdftex.def)             Requested size: 216.81pt x 162.60416pt.
+
+Overfull \hbox (2.22221pt too wide) in paragraph at lines 149--161
+[][] [] 
+ []
+
+[3 <./scoreDis.jpg> <./probe97.jpg> <./gallery97.jpg>]
+<probe47.jpg, id=31, 642.4pt x 481.8pt>
+File: probe47.jpg Graphic file (type jpg)
+ <use probe47.jpg>
+Package pdftex.def Info: probe47.jpg used on input line 167.
+(pdftex.def)             Requested size: 216.81pt x 162.60416pt.
+
+<gallery18.jpg, id=32, 642.4pt x 481.8pt>
+File: gallery18.jpg Graphic file (type jpg)
+ <use gallery18.jpg>
+Package pdftex.def Info: gallery18.jpg used on input line 173.
+(pdftex.def)             Requested size: 216.81pt x 162.60416pt.
+
+Overfull \hbox (2.22221pt too wide) in paragraph at lines 165--177
+[][] [] 
+ []
+
+<probe45.jpg, id=33, 642.4pt x 481.8pt>
+File: probe45.jpg Graphic file (type jpg)
+ <use probe45.jpg>
+Package pdftex.def Info: probe45.jpg used on input line 183.
+(pdftex.def)             Requested size: 216.81pt x 162.60416pt.
+
+<gallery71.jpg, id=34, 642.4pt x 481.8pt>
+File: gallery71.jpg Graphic file (type jpg)
+ <use gallery71.jpg>
+Package pdftex.def Info: gallery71.jpg used on input line 189.
+(pdftex.def)             Requested size: 216.81pt x 162.60416pt.
+
+Overfull \hbox (2.22221pt too wide) in paragraph at lines 181--193
+[][] [] 
+ []
+
+[4 <./probe84.jpg> <./gallery84.jpg> <./probe47.jpg> <./gallery18.jpg>]
+Underfull \hbox (badness 10000) in paragraph at lines 203--204
+
+ []
+
+<fprobe1segmented.jpg, id=38, 642.4pt x 481.8pt>
+File: fprobe1segmented.jpg Graphic file (type jpg)
+ <use fprobe1segmented.jpg>
+Package pdftex.def Info: fprobe1segmented.jpg used on input line 208.
+(pdftex.def)             Requested size: 158.99377pt x 119.24402pt.
+
+<fprobe1polarnoise.jpg, id=39, 240.9pt x 20.075pt>
+File: fprobe1polarnoise.jpg Graphic file (type jpg)
+ <use fprobe1polarnoise.jpg>
+Package pdftex.def Info: fprobe1polarnoise.jpg used on input line 214.
+(pdftex.def)             Requested size: 158.99377pt x 13.24983pt.
+
+<firiscoding1.jpg, id=40, 1022.82124pt x 200.75pt>
+File: firiscoding1.jpg Graphic file (type jpg)
+ <use firiscoding1.jpg>
+Package pdftex.def Info: firiscoding1.jpg used on input line 220.
+(pdftex.def)             Requested size: 216.81pt x 42.55083pt.
+
+Overfull \hbox (54.62764pt too wide) in paragraph at lines 220--221
+ [][] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 226--227
+
+ []
+
+<fprobe2segmented.jpg, id=41, 642.4pt x 481.8pt>
+File: fprobe2segmented.jpg Graphic file (type jpg)
+ <use fprobe2segmented.jpg>
+Package pdftex.def Info: fprobe2segmented.jpg used on input line 231.
+(pdftex.def)             Requested size: 158.99377pt x 119.24402pt.
+
+<fprobe2polarnoise.jpg, id=42, 240.9pt x 20.075pt>
+File: fprobe2polarnoise.jpg Graphic file (type jpg)
+ <use fprobe2polarnoise.jpg>
+Package pdftex.def Info: fprobe2polarnoise.jpg used on input line 237.
+(pdftex.def)             Requested size: 158.99377pt x 13.24983pt.
+
+<firiscoding2.jpg, id=43, 1022.82124pt x 200.75pt>
+File: firiscoding2.jpg Graphic file (type jpg)
+ <use firiscoding2.jpg>
+Package pdftex.def Info: firiscoding2.jpg used on input line 243.
+(pdftex.def)             Requested size: 216.81pt x 42.55083pt.
+
+Overfull \hbox (54.62764pt too wide) in paragraph at lines 243--244
+ [][] 
+ []
+
+[5 <./probe45.jpg> <./gallery71.jpg> <./fprobe1segmented.jpg> <./fprobe1polarno
+ise.jpg> <./firiscoding1.jpg>]
+Underfull \hbox (badness 10000) in paragraph at lines 249--250
+
+ []
+
+<fprobe3segmented.jpg, id=48, 642.4pt x 481.8pt>
+File: fprobe3segmented.jpg Graphic file (type jpg)
+ <use fprobe3segmented.jpg>
+Package pdftex.def Info: fprobe3segmented.jpg used on input line 254.
+(pdftex.def)             Requested size: 158.99377pt x 119.24402pt.
+
+<fprobe3polarnoise.jpg, id=49, 240.9pt x 20.075pt>
+File: fprobe3polarnoise.jpg Graphic file (type jpg)
+ <use fprobe3polarnoise.jpg>
+Package pdftex.def Info: fprobe3polarnoise.jpg used on input line 260.
+(pdftex.def)             Requested size: 158.99377pt x 13.24983pt.
+
+<firiscoding3.jpg, id=50, 1022.82124pt x 200.75pt>
+File: firiscoding3.jpg Graphic file (type jpg)
+ <use firiscoding3.jpg>
+Package pdftex.def Info: firiscoding3.jpg used on input line 266.
+(pdftex.def)             Requested size: 216.81pt x 42.55083pt.
+
+Overfull \hbox (54.62764pt too wide) in paragraph at lines 266--267
+ [][] 
+ []
+
+<filtered_scoreDis.jpg, id=51, 878.28125pt x 658.46pt>
+File: filtered_scoreDis.jpg Graphic file (type jpg)
+
+<use filtered_scoreDis.jpg>
+Package pdftex.def Info: filtered_scoreDis.jpg used on input line 290.
+(pdftex.def)             Requested size: 289.07999pt x 216.72983pt.
+ [6 <./fprobe2segmented.jpg> <./fprobe2polarnoise.jpg> <./firiscoding2.jpg> <./
+fprobe3segmented.jpg> <./fprobe3polarnoise.jpg> <./firiscoding3.jpg>] <probe1.j
+pg, id=55, 642.4pt x 481.8pt>
+File: probe1.jpg Graphic file (type jpg)
+ <use probe1.jpg>
+Package pdftex.def Info: probe1.jpg used on input line 299.
+(pdftex.def)             Requested size: 216.81pt x 162.60416pt.
+
+<gallery1.jpg, id=56, 642.4pt x 481.8pt>
+File: gallery1.jpg Graphic file (type jpg)
+ <use gallery1.jpg>
+Package pdftex.def Info: gallery1.jpg used on input line 305.
+(pdftex.def)             Requested size: 216.81pt x 162.60416pt.
+
+Overfull \hbox (2.22221pt too wide) in paragraph at lines 297--309
+[][] [] 
+ []
+
+<probe84filtered.jpg, id=57, 642.4pt x 481.8pt>
+File: probe84filtered.jpg Graphic file (type jpg)
+ <use probe84filtered.jpg>
+Package pdftex.def Info: probe84filtered.jpg used on input line 315.
+(pdftex.def)             Requested size: 216.81pt x 162.60416pt.
+File: gallery84.jpg Graphic file (type jpg)
+
+<use gallery84.jpg>
+Package pdftex.def Info: gallery84.jpg used on input line 321.
+(pdftex.def)             Requested size: 216.81pt x 162.60416pt.
+
+Overfull \hbox (2.22221pt too wide) in paragraph at lines 313--325
+[][] [] 
+ []
+
+[7 <./filtered_scoreDis.jpg> <./probe1.jpg> <./gallery1.jpg>]
+<probe66filtered.jpg, id=62, 642.4pt x 481.8pt>
+File: probe66filtered.jpg Graphic file (type jpg)
+ <use probe66filtered.jpg>
+Package pdftex.def Info: probe66filtered.jpg used on input line 331.
+(pdftex.def)             Requested size: 216.81pt x 162.60416pt.
+
+<gallery85filtered.jpg, id=63, 642.4pt x 481.8pt>
+File: gallery85filtered.jpg Graphic file (type jpg)
+ <use gallery85filtered.jpg>
+Package pdftex.def Info: gallery85filtered.jpg used on input line 337.
+(pdftex.def)             Requested size: 216.81pt x 162.60416pt.
+
+Overfull \hbox (2.22221pt too wide) in paragraph at lines 329--341
+[][] [] 
+ []
+
+<probe45filtered.jpg, id=64, 642.4pt x 481.8pt>
+File: probe45filtered.jpg Graphic file (type jpg)
+ <use probe45filtered.jpg>
+Package pdftex.def Info: probe45filtered.jpg used on input line 348.
+(pdftex.def)             Requested size: 216.81pt x 162.60416pt.
+File: gallery71.jpg Graphic file (type jpg)
+
+<use gallery71.jpg>
+Package pdftex.def Info: gallery71.jpg used on input line 354.
+(pdftex.def)             Requested size: 216.81pt x 162.60416pt.
+
+Overfull \hbox (2.22221pt too wide) in paragraph at lines 346--358
+[][] [] 
+ []
+
+[8 <./probe84filtered.jpg> <./probe66filtered.jpg> <./gallery85filtered.jpg>]
+[9 <./probe45filtered.jpg>] (./HW5_hudanyun_sheng.aux)
+
+LaTeX Warning: There were multiply-defined labels.
+
+ ) 
+Here is how much of TeX's memory you used:
+ 5486 strings out of 493089
+ 81992 string characters out of 6134842
+ 143248 words of memory out of 5000000
+ 8873 multiletter control sequences out of 15000+600000
+ 6849 words of font info for 27 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 37i,8n,38p,519b,505s stack positions out of 5000i,500n,10000p,200000b,80000s
+</usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb
+></usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb><
+/usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></u
+sr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb></usr
+/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/lo
+cal/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb>
+Output written on HW5_hudanyun_sheng.pdf (9 pages, 877730 bytes).
+PDF statistics:
+ 92 PDF objects out of 1000 (max. 8388607)
+ 40 compressed objects within 1 object stream
+ 0 named destinations out of 1000 (max. 500000)
+ 171 words of extra memory for PDF output out of 10000 (max. 10000000)
+
